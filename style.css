@@ -7,8 +7,8 @@
   --colore-primario-scuro: #4a1723;
   --colore-sfondo: #fff6d1;
   --colore-testo: #4a1723;
-  --font-testo: Arial, Helvetica, sans-serif;
-  --font-titoli: Georgia, "Times New Roman", serif;
+  --font-testo: "Space Grotesk", Arial, sans-serif;
+  --font-titoli: "Fraunces", Georgia, serif;
 }
 
 * {
