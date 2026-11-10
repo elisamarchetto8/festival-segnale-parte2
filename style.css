@@ -305,9 +305,3 @@ h3 {
     height: 22rem;
   }
 }
-
-.testo-senza-a-capo {
-  max-width: none;
-  white-space: nowrap;
-}
-
